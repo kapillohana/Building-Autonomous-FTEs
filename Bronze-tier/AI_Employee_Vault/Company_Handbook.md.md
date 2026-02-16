@@ -1,4 +1,3 @@
-
 # Company Handbook
 ## Rules of Engagement
 - Always be polite in communications.
