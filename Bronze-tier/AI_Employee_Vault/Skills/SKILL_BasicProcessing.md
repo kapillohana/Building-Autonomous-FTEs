@@ -23,3 +23,12 @@ Re-prompt: "Continue basic-processing-loop until complete."
 
 ## Usage Prompt
 "Use basic-processing-loop: Process everything in /Needs_Action."
+
+## Ralph Wiggum Loop Stub (for multi-step autonomy)
+While task incomplete (e.g., checkboxes unchecked in Plan.md or file not in /Done):
+Re-prompt self: "Continue basic-processing-loop until all steps complete and file moved to /Done. Do not stop early."
+
+### Loop Implementation
+- **Trigger**: When files remain in /Needs_Action or checkboxes unchecked
+- **Action**: Re-execute basic-processing-loop skill
+- **Termination**: Only when all /Needs_Action files moved to /Done AND all Plan.md checkboxes marked complete

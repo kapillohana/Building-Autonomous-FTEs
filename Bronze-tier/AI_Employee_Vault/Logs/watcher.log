@@ -1,0 +1,119 @@
+2026-02-19 02:27:13,622 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:27:13,623 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:27:13,624 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:27:13,624 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:38:30,926 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:38:30,927 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:38:30,928 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:38:30,928 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:44:06,170 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:44:06,170 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:44:06,171 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:44:06,171 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:44:44,063 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:44:44,063 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:44:44,064 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:44:44,065 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:47:09,032 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:47:09,033 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:47:09,037 - __main__ - ERROR - Failed to initialize GmailWatcher: Authorized user info was not in the expected format, missing fields client_id, refresh_token, client_secret.
+2026-02-19 02:47:09,037 - __main__ - CRITICAL - Fatal error: Authorized user info was not in the expected format, missing fields client_id, refresh_token, client_secret.
+2026-02-19 02:54:34,879 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:54:34,880 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:54:34,881 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:54:34,882 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:55:45,255 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:55:45,255 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:55:45,255 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:55:45,256 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:57:24,658 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:57:24,660 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:57:24,661 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:57:24,662 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 03:00:56,374 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:00:56,375 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:00:56,377 - __main__ - ERROR - Credentials file missing: ../scripts/credentials.json
+2026-02-19 03:00:56,377 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 03:02:54,008 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:02:54,009 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:02:54,010 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-19 03:02:54,010 - __main__ - ERROR - Credentials file missing: ../scripts/credentials.json
+2026-02-19 03:02:54,010 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 03:03:24,341 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:03:24,342 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:03:24,343 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-19 03:15:58,009 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-02-19 03:16:09,751 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:16:09,752 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:16:09,753 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-19 03:17:47,941 - __main__ - ERROR - Initialization failed: 'NoneType' object has no attribute 'replace'
+2026-02-19 03:17:47,950 - __main__ - CRITICAL - Fatal error: 'NoneType' object has no attribute 'replace'
+2026-02-21 02:45:37,837 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault
+2026-02-21 02:45:37,837 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action
+2026-02-21 02:45:37,838 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-21 02:46:00,306 - google_auth_oauthlib.flow - INFO - "GET /?state=irMZSEudGiiS8snQXnA5dbpU6Hc9Nl&code=4/0AfrIepByQvCbE1SG5pHhMOjT1MZ3-Z7nhsl8FmzQ14qed_I4VQEOhIko5m7r8hWAZbYTWw&scope=https://www.googleapis.com/auth/gmail.modify HTTP/1.1" 200 65
+2026-02-21 02:46:01,796 - __main__ - INFO - Token saved to token.json
+2026-02-21 02:46:01,799 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-21 02:46:01,803 - __main__ - INFO - Starting with empty processed IDs
+2026-02-21 02:46:01,803 - __main__ - INFO - GmailWatcher initialized successfully
+2026-02-21 02:46:01,804 - GmailWatcher - INFO - Starting GmailWatcher
+2026-02-21 02:46:02,995 - __main__ - INFO - Found 9 new unread important messages
+2026-02-21 02:46:03,267 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_19c3a06bd1908c4c.md
+2026-02-21 02:46:03,486 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_19abccf1fb53a938.md
+2026-02-21 02:46:03,711 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_199e760306ae2f6c.md
+2026-02-21 02:46:04,089 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_198ddf00bd4f6561.md
+2026-02-21 02:46:04,378 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_191f70a6089ec9e0.md
+2026-02-21 02:46:04,584 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_191f6f59bfe64564.md
+2026-02-21 02:46:04,912 - __main__ - ERROR - Error creating file for 17e298a5721e3abd: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:46:04,912 - GmailWatcher - ERROR - Error: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:48:05,165 - __main__ - INFO - Found 3 new unread important messages
+2026-02-21 02:48:05,470 - __main__ - ERROR - Error creating file for 17e298a5721e3abd: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:48:05,472 - GmailWatcher - ERROR - Error: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:49:38,992 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-02-21 02:49:43,329 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault
+2026-02-21 02:49:43,329 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action
+2026-02-21 02:49:43,342 - __main__ - INFO - Loaded existing token
+2026-02-21 02:49:43,344 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-21 02:49:43,346 - __main__ - INFO - Loaded 6 processed IDs
+2026-02-21 02:49:43,346 - __main__ - INFO - GmailWatcher initialized successfully
+2026-02-21 02:49:43,347 - GmailWatcher - INFO - Starting GmailWatcher
+2026-02-21 02:49:43,930 - __main__ - INFO - Found 3 new unread important messages
+2026-02-21 02:49:44,198 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_17e298a5721e3abd.md
+2026-02-21 02:49:44,444 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_17de15fb0f8467c8.md
+2026-02-21 02:49:44,828 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_17ba1ec67a9fed75.md
+2026-02-21 02:51:45,324 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 02:53:45,595 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 02:55:45,812 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 02:57:46,031 - __main__ - INFO - Found 1 new unread important messages
+2026-02-21 02:57:46,278 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_19c7d0d5954fde13.md
+2026-02-21 02:59:46,792 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 03:02:01,576 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-21 03:02:01,662 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:29:08,443 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:29:08,464 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:31:08,490 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:31:08,491 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:33:08,494 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:33:08,496 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:35:08,501 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:35:08,507 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:37:08,525 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:37:08,536 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:39:08,539 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:39:08,543 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:41:08,547 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:41:08,548 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:43:08,553 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:43:08,556 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:45:08,560 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:45:08,560 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:47:08,566 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:47:08,569 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:49:08,570 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:49:08,570 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:51:08,572 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:51:08,573 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:53:08,574 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:53:08,575 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:55:08,576 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:55:08,578 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
