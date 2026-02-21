@@ -117,3 +117,9 @@
 2026-02-22 02:53:08,575 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
 2026-02-22 02:55:08,576 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
 2026-02-22 02:55:08,578 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:57:08,578 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:57:08,578 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:59:08,580 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:59:08,582 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:01:08,584 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:01:08,585 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
