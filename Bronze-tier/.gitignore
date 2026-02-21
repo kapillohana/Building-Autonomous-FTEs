@@ -1,0 +1,69 @@
+# 🔐 SECRETS & CREDENTIALS - NEVER COMMIT THESE
+# ============================================
+
+# Google OAuth credentials
+AI_Employee_Vault/scripts/credentials.json
+AI_Employee_Vault/scripts/token.json
+scripts/credentials.json
+scripts/token.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# API Keys and tokens
+*.key
+*.pem
+*.p8
+api_key.txt
+secret*.txt
+
+# Session files
+*.session
+*.session.json
+
+# Sensitive logs
+logs/sensitive*.log
+logs/*credentials*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary
+*.tmp
+*.temp
+~*
+
+# Database backups (if any)
+*.db.backup
+*.sql.backup
+
+# Never commit:
+# - credentials.json (Google OAuth client secret)
+# - token.json (stored access token)
+# - .env files (API keys)
+# - Any file with passwords or tokens
+
+# Safe to commit:
+# - .env.example (template for .env)
+# - SECURITY.md (setup instructions)
+# - base_watcher.py (code without secrets)
+# - README.md (documentation without keys)

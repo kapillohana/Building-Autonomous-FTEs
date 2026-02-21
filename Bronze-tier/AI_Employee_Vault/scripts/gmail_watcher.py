@@ -9,14 +9,23 @@ from pathlib import Path
 from base_watcher import BaseWatcher
 import logging
 import sys
+from dotenv import load_dotenv  # For .env file support
+
+# 🔐 SECURITY: Load environment variables from .env file
+# This prevents hardcoding credentials in the script
+try:
+    load_dotenv()  # Load from .env file in project root
+except:
+    pass  # .env not found, will use os.environ directly
 
 # ────────────────────────────────────────────────────────────────
-# Debug / Visibility (temporary - remove or comment later)
+# Debug / Visibility
 print("=== GmailWatcher STARTED ===")
 print(f"Logging to: {os.path.abspath('../logs/watcher.log')}")
 print("Press Ctrl+C to stop")
 print(f"Python version: {sys.version}")
 print(f"Current dir: {os.getcwd()}")
+print("🔐 Loading credentials from environment variables...")
 # ────────────────────────────────────────────────────────────────
 
 # Logging setup - console + file
@@ -32,7 +41,7 @@ logger = logging.getLogger(__name__)
 
 
 class GmailWatcher(BaseWatcher):
-    def __init__(self, vault_path: str, credentials_path: str = '../scripts/credentials.json', check_interval: int = 120):
+    def __init__(self, vault_path: str, credentials_path: str = None, check_interval: int = 120):
         super().__init__(vault_path, check_interval)
 
         self.vault_path = Path(vault_path).resolve()
@@ -42,11 +51,32 @@ class GmailWatcher(BaseWatcher):
         logger.info(f"Vault path: {self.vault_path}")
         logger.info(f"Needs_Action: {self.needs_action}")
 
+        # 🔐 SECURITY: Get credentials path from environment variable or use default
+        if credentials_path is None:
+            credentials_path = os.getenv('GMAIL_CREDENTIALS_PATH', '../scripts/credentials.json')
+            logger.info(f"Using credentials from env: GMAIL_CREDENTIALS_PATH={credentials_path}")
+
+        if not Path(credentials_path).exists():
+            raise FileNotFoundError(
+                f"❌ Credentials not found at: {credentials_path}\n"
+                f"   1. Copy .env.example to .env\n"
+                f"   2. Edit .env with your actual path to credentials.json\n"
+                f"   3. Run: export $(cat .env | xargs) && python3 gmail_watcher.py\n"
+                f"   4. Or set: export GMAIL_CREDENTIALS_PATH='/path/to/credentials.json'\n"
+                f"   5. Get credentials from: https://console.cloud.google.com/apis/credentials"
+            )
+
+        self.credentials_path = credentials_path
+        logger.info(f"Credentials file: {self.credentials_path}")
+
         SCOPES = ['https://www.googleapis.com/auth/gmail.modify']  # read + modify (or use gmail.readonly)
 
         try:
             creds = None
-            token_path = Path('../scripts/token.json').resolve()
+
+            # 🔐 SECURITY: Get token path from environment or use default
+            token_path_env = os.getenv('GMAIL_TOKEN_PATH', '../scripts/token.json')
+            token_path = Path(token_path_env).resolve()
 
             # Load existing token if available
             if token_path.exists():
@@ -60,7 +90,7 @@ class GmailWatcher(BaseWatcher):
                     creds.refresh(Request())
                 else:
                     logger.info("No valid token - starting OAuth flow (browser will open)")
-                    flow = InstalledAppFlow.from_client_secrets_file(credentials_path, SCOPES)
+                    flow = InstalledAppFlow.from_client_secrets_file(self.credentials_path, SCOPES)
                     creds = flow.run_local_server(port=0)  # opens browser automatically
 
                 # Save the token for next time
