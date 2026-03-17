@@ -1,0 +1,8 @@
+{"level":"info","message":"MCP Server started on port 3000","timestamp":"2026-03-17T22:05:36.641Z"}
+{"level":"info","message":"SMTP verified","timestamp":"2026-03-17T22:06:00.120Z"}
+{"level":"info","message":"MCP Server started on port 3000","timestamp":"2026-03-17T22:06:16.302Z"}
+{"level":"info","message":"SMTP verified","timestamp":"2026-03-17T22:06:19.074Z"}
+{"level":"info","message":"MCP Server started on port 3000","timestamp":"2026-03-17T22:11:59.727Z"}
+{"level":"info","message":"SMTP verified","timestamp":"2026-03-17T22:12:01.946Z"}
+{"level":"info","message":"POST /send_email","timestamp":"2026-03-17T22:19:15.549Z"}
+{"level":"info","message":"Email sent","messageId":"<77531a6d-ec48-5a54-9ede-345135ad5cc5@gmail.com>","timestamp":"2026-03-17T22:19:19.463Z","to":"kapillohana79@gmail.com"}

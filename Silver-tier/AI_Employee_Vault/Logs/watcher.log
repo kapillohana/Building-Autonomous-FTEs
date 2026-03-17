@@ -1,0 +1,584 @@
+2026-02-19 02:27:13,622 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:27:13,623 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:27:13,624 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:27:13,624 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:38:30,926 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:38:30,927 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:38:30,928 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:38:30,928 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:44:06,170 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:44:06,170 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:44:06,171 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:44:06,171 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:44:44,063 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:44:44,063 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:44:44,064 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:44:44,065 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:47:09,032 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:47:09,033 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:47:09,037 - __main__ - ERROR - Failed to initialize GmailWatcher: Authorized user info was not in the expected format, missing fields client_id, refresh_token, client_secret.
+2026-02-19 02:47:09,037 - __main__ - CRITICAL - Fatal error: Authorized user info was not in the expected format, missing fields client_id, refresh_token, client_secret.
+2026-02-19 02:54:34,879 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:54:34,880 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:54:34,881 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:54:34,882 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:55:45,255 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:55:45,255 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:55:45,255 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:55:45,256 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 02:57:24,658 - __main__ - INFO - Vault path resolved to: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 02:57:24,660 - __main__ - INFO - Needs_Action folder: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 02:57:24,661 - __main__ - ERROR - Credentials file not found: ../scripts/credentials.json
+2026-02-19 02:57:24,662 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 03:00:56,374 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:00:56,375 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:00:56,377 - __main__ - ERROR - Credentials file missing: ../scripts/credentials.json
+2026-02-19 03:00:56,377 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 03:02:54,008 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:02:54,009 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:02:54,010 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-19 03:02:54,010 - __main__ - ERROR - Credentials file missing: ../scripts/credentials.json
+2026-02-19 03:02:54,010 - __main__ - CRITICAL - Fatal error: [Errno 2] No such file or directory: '../scripts/credentials.json'
+2026-02-19 03:03:24,341 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:03:24,342 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:03:24,343 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-19 03:15:58,009 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-02-19 03:16:09,751 - __main__ - INFO - Vault path: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault
+2026-02-19 03:16:09,752 - __main__ - INFO - Needs_Action: /mnt/c/Users/PMLS/Desktop/Hackathon-0/Bronze-tier/AI_Employee_Vault/Needs_Action
+2026-02-19 03:16:09,753 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-19 03:17:47,941 - __main__ - ERROR - Initialization failed: 'NoneType' object has no attribute 'replace'
+2026-02-19 03:17:47,950 - __main__ - CRITICAL - Fatal error: 'NoneType' object has no attribute 'replace'
+2026-02-21 02:45:37,837 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault
+2026-02-21 02:45:37,837 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action
+2026-02-21 02:45:37,838 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-02-21 02:46:00,306 - google_auth_oauthlib.flow - INFO - "GET /?state=irMZSEudGiiS8snQXnA5dbpU6Hc9Nl&code=4/0AfrIepByQvCbE1SG5pHhMOjT1MZ3-Z7nhsl8FmzQ14qed_I4VQEOhIko5m7r8hWAZbYTWw&scope=https://www.googleapis.com/auth/gmail.modify HTTP/1.1" 200 65
+2026-02-21 02:46:01,796 - __main__ - INFO - Token saved to token.json
+2026-02-21 02:46:01,799 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-21 02:46:01,803 - __main__ - INFO - Starting with empty processed IDs
+2026-02-21 02:46:01,803 - __main__ - INFO - GmailWatcher initialized successfully
+2026-02-21 02:46:01,804 - GmailWatcher - INFO - Starting GmailWatcher
+2026-02-21 02:46:02,995 - __main__ - INFO - Found 9 new unread important messages
+2026-02-21 02:46:03,267 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_19c3a06bd1908c4c.md
+2026-02-21 02:46:03,486 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_19abccf1fb53a938.md
+2026-02-21 02:46:03,711 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_199e760306ae2f6c.md
+2026-02-21 02:46:04,089 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_198ddf00bd4f6561.md
+2026-02-21 02:46:04,378 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_191f70a6089ec9e0.md
+2026-02-21 02:46:04,584 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_191f6f59bfe64564.md
+2026-02-21 02:46:04,912 - __main__ - ERROR - Error creating file for 17e298a5721e3abd: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:46:04,912 - GmailWatcher - ERROR - Error: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:48:05,165 - __main__ - INFO - Found 3 new unread important messages
+2026-02-21 02:48:05,470 - __main__ - ERROR - Error creating file for 17e298a5721e3abd: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:48:05,472 - GmailWatcher - ERROR - Error: 'charmap' codec can't encode character '\U0001f680' in position 66: character maps to <undefined>
+2026-02-21 02:49:38,992 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-02-21 02:49:43,329 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault
+2026-02-21 02:49:43,329 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action
+2026-02-21 02:49:43,342 - __main__ - INFO - Loaded existing token
+2026-02-21 02:49:43,344 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-02-21 02:49:43,346 - __main__ - INFO - Loaded 6 processed IDs
+2026-02-21 02:49:43,346 - __main__ - INFO - GmailWatcher initialized successfully
+2026-02-21 02:49:43,347 - GmailWatcher - INFO - Starting GmailWatcher
+2026-02-21 02:49:43,930 - __main__ - INFO - Found 3 new unread important messages
+2026-02-21 02:49:44,198 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_17e298a5721e3abd.md
+2026-02-21 02:49:44,444 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_17de15fb0f8467c8.md
+2026-02-21 02:49:44,828 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_17ba1ec67a9fed75.md
+2026-02-21 02:51:45,324 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 02:53:45,595 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 02:55:45,812 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 02:57:46,031 - __main__ - INFO - Found 1 new unread important messages
+2026-02-21 02:57:46,278 - __main__ - INFO - Created action file: C:\Users\PMLS\Desktop\Hackathon-0\Bronze-tier\AI_Employee_Vault\Needs_Action\EMAIL_19c7d0d5954fde13.md
+2026-02-21 02:59:46,792 - __main__ - INFO - Found 0 new unread important messages
+2026-02-21 03:02:01,576 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-21 03:02:01,662 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:29:08,443 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:29:08,464 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:31:08,490 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:31:08,491 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:33:08,494 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:33:08,496 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:35:08,501 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:35:08,507 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:37:08,525 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:37:08,536 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:39:08,539 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:39:08,543 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:41:08,547 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:41:08,548 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:43:08,553 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:43:08,556 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:45:08,560 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:45:08,560 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:47:08,566 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:47:08,569 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:49:08,570 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:49:08,570 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:51:08,572 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:51:08,573 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:53:08,574 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:53:08,575 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:55:08,576 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:55:08,578 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:57:08,578 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:57:08,578 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:59:08,580 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 02:59:08,582 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:01:08,584 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:01:08,585 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:03:08,600 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:03:08,605 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:05:08,608 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:05:08,609 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:07:08,613 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:07:08,617 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:09:08,619 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:09:08,620 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:11:08,621 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:11:08,628 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:13:08,635 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:13:08,637 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:15:08,639 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:15:08,640 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:17:08,649 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:17:08,650 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:19:08,651 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:19:08,651 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:21:08,652 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:21:08,656 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:23:08,660 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:23:08,660 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:25:08,661 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:25:08,662 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:27:08,666 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:27:08,667 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:29:08,667 - __main__ - ERROR - Polling error: [WinError 233] No process is on the other end of the pipe
+2026-02-22 03:29:08,668 - GmailWatcher - ERROR - Error: [WinError 233] No process is on the other end of the pipe
+2026-03-16 04:16:23,123 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:16:23,123 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:16:23,123 - __main__ - INFO - Using credentials from env: GMAIL_CREDENTIALS_PATH=../scripts/credentials.json
+2026-03-16 04:16:23,123 - __main__ - INFO - Credentials file: ../scripts/credentials.json
+2026-03-16 04:16:23,124 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-03-16 04:16:23,395 - google_auth_oauthlib.flow - INFO - Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1009905615709-kep85qh2murej672s1u01q65pl974e7j.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A60307%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.modify&state=Kvg2yWV7BT145YmtiwLo8kcPv2Tiv7&code_challenge=41dZkJJ74hB7ImyyRiV2E7eg5T4LI0Fla9jnckUlIO8&code_challenge_method=S256&access_type=offline
+2026-03-16 04:22:21,216 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:22:21,216 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:22:21,216 - __main__ - INFO - Using credentials from env: GMAIL_CREDENTIALS_PATH=../scripts/credentials.json
+2026-03-16 04:22:21,216 - __main__ - INFO - Credentials file: ../scripts/credentials.json
+2026-03-16 04:22:21,216 - __main__ - INFO - No valid token - starting OAuth flow (browser will open)
+2026-03-16 04:22:40,524 - google_auth_oauthlib.flow - INFO - "GET /?state=0phZgzMUdQDq6XeSujJUbxCFhBXuja&iss=https://accounts.google.com&code=4/0AfrIepBba4gMWE2j052xNUyH416f_mKONqul0eLBtfJuC7qefj8_DHdJIpkpXmLi2TERsw&scope=https://www.googleapis.com/auth/gmail.modify HTTP/1.1" 200 65
+2026-03-16 04:22:41,972 - __main__ - INFO - Token saved to token.json
+2026-03-16 04:22:41,976 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:22:41,980 - __main__ - INFO - Loaded 10 processed IDs
+2026-03-16 04:22:41,980 - __main__ - INFO - GmailWatcher initialized successfully
+2026-03-16 04:22:41,982 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-16 04:22:42,996 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:24:43,231 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:26:43,436 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:28:44,239 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:30:44,430 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:32:44,639 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:34:44,842 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:36:45,050 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:38:45,251 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:40:45,447 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:42:45,681 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:44:45,876 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:46:42,003 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:46:42,003 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:46:42,003 - __main__ - INFO - Using credentials from env: GMAIL_CREDENTIALS_PATH=../scripts/credentials.json
+2026-03-16 04:46:42,004 - __main__ - INFO - Credentials file: ../scripts/credentials.json
+2026-03-16 04:46:42,007 - __main__ - INFO - Loaded existing token
+2026-03-16 04:46:42,015 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:46:42,020 - __main__ - INFO - Loaded 10 processed IDs
+2026-03-16 04:46:42,020 - __main__ - INFO - GmailWatcher initialized successfully
+2026-03-16 04:46:42,020 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-16 04:46:42,779 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:46:59,551 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-03-16 04:47:03,554 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 04:47:03,554 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:47:03,554 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:47:03,554 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 04:47:03,554 - WhatsAppWatcher - INFO - Headless: True
+2026-03-16 04:47:03,554 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 04:47:09,481 - WhatsAppWatcher - INFO - Browser initialized successfully
+2026-03-16 04:47:09,482 - WhatsAppWatcher - INFO - No saved session found - QR scan will be required
+2026-03-16 04:47:09,482 - WhatsAppWatcher - INFO - Waiting for QR code scan...
+2026-03-16 04:49:10,905 - WhatsAppWatcher - ERROR - QR scan timeout - user did not scan within 2 minutes
+2026-03-16 04:49:10,905 - WhatsAppWatcher - ERROR - QR scan failed or cancelled
+2026-03-16 04:49:11,104 - WhatsAppWatcher - INFO - Browser closed
+2026-03-16 04:49:11,141 - WhatsAppWatcher - INFO - Playwright stopped
+2026-03-16 04:49:11,141 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 04:50:14,154 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 04:50:14,154 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:50:14,154 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:50:14,154 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 04:50:14,154 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 04:50:46,242 - WhatsAppWatcher - INFO - Browser initialized successfully (visible mode)
+2026-03-16 04:50:46,242 - WhatsAppWatcher - INFO - No saved session found - QR scan will be required
+2026-03-16 04:50:46,244 - WhatsAppWatcher - INFO - Waiting for QR code scan...
+2026-03-16 04:51:24,761 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 04:51:25,345 - WhatsAppWatcher - ERROR - QR scan failed or cancelled
+2026-03-16 04:51:25,350 - WhatsAppWatcher - ERROR - Error during cleanup: Browser.close: Connection closed while reading from the driver
+2026-03-16 04:51:25,351 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 04:51:27,595 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:51:27,595 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:51:27,595 - __main__ - INFO - Using credentials from env: GMAIL_CREDENTIALS_PATH=../scripts/credentials.json
+2026-03-16 04:51:27,595 - __main__ - INFO - Credentials file: ../scripts/credentials.json
+2026-03-16 04:51:27,597 - __main__ - INFO - Loaded existing token
+2026-03-16 04:51:27,599 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:51:27,603 - __main__ - INFO - Loaded 10 processed IDs
+2026-03-16 04:51:27,603 - __main__ - INFO - GmailWatcher initialized successfully
+2026-03-16 04:51:27,603 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-16 04:51:28,200 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:51:31,928 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-03-16 04:51:34,255 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 04:51:34,255 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:51:34,255 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:51:34,255 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 04:51:34,255 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 04:52:05,701 - WhatsAppWatcher - INFO - Browser initialized successfully (visible mode)
+2026-03-16 04:52:05,701 - WhatsAppWatcher - INFO - No saved session found - QR scan will be required
+2026-03-16 04:52:05,702 - WhatsAppWatcher - INFO - Waiting for QR code scan...
+2026-03-16 04:52:17,928 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 04:52:20,738 - WhatsAppWatcher - ERROR - QR scan failed or cancelled
+2026-03-16 04:52:20,744 - WhatsAppWatcher - ERROR - Error during cleanup: Browser.close: Connection closed while reading from the driver
+2026-03-16 04:52:20,745 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 04:52:22,979 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:52:22,979 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:52:22,979 - __main__ - INFO - Using credentials from env: GMAIL_CREDENTIALS_PATH=../scripts/credentials.json
+2026-03-16 04:52:22,979 - __main__ - INFO - Credentials file: ../scripts/credentials.json
+2026-03-16 04:52:22,981 - __main__ - INFO - Loaded existing token
+2026-03-16 04:52:22,982 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-16 04:52:22,984 - __main__ - INFO - Loaded 10 processed IDs
+2026-03-16 04:52:22,984 - __main__ - INFO - GmailWatcher initialized successfully
+2026-03-16 04:52:22,985 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-16 04:52:23,670 - __main__ - INFO - Found 0 new unread important messages
+2026-03-16 04:52:25,199 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-03-16 04:52:27,999 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 04:52:27,999 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:52:27,999 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:52:27,999 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 04:52:27,999 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 04:52:29,556 - WhatsAppWatcher - INFO - Navigating to WhatsApp Web...
+2026-03-16 04:53:03,286 - WhatsAppWatcher - INFO - Browser initialized successfully (visible mode)
+2026-03-16 04:53:03,287 - WhatsAppWatcher - INFO - No saved session found - QR scan will be required
+2026-03-16 04:53:03,292 - WhatsAppWatcher - INFO - Waiting for QR code scan...
+2026-03-16 04:53:03,358 - WhatsAppWatcher - INFO - QR code scanned successfully!
+2026-03-16 04:53:03,362 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 04:53:03,362 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 04:53:13,385 - WhatsAppWatcher - WARNING - Chat list not found, waiting more...
+2026-03-16 04:53:20,423 - WhatsAppWatcher - INFO - No chats found - may not be logged in
+2026-03-16 04:53:20,427 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 04:55:20,522 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 04:55:30,699 - WhatsAppWatcher - WARNING - Chat list not found, waiting more...
+2026-03-16 04:55:37,786 - WhatsAppWatcher - INFO - Found 30 chats using selector: div[role="row"]
+2026-03-16 04:55:37,786 - WhatsAppWatcher - INFO - Found 30 chats to check
+2026-03-16 04:55:38,103 - WhatsAppWatcher - INFO - Found 0 new messages matching criteria
+2026-03-16 04:55:38,106 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 04:57:38,228 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 04:57:48,263 - WhatsAppWatcher - WARNING - Chat list not found, waiting more...
+2026-03-16 04:57:55,339 - WhatsAppWatcher - INFO - Found 30 chats using selector: div[role="row"]
+2026-03-16 04:57:55,339 - WhatsAppWatcher - INFO - Found 30 chats to check
+2026-03-16 04:57:55,656 - WhatsAppWatcher - INFO - Found 0 new messages matching criteria
+2026-03-16 04:57:55,660 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 04:59:41,644 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 04:59:41,767 - WhatsAppWatcher - INFO - Shutdown requested - exiting main loop
+2026-03-16 04:59:42,610 - WhatsAppWatcher - ERROR - Error during cleanup: Browser.close: Connection closed while reading from the driver
+2026-03-16 04:59:42,610 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 04:59:45,694 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 04:59:45,695 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 04:59:45,695 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 04:59:45,695 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 04:59:45,695 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 04:59:47,327 - WhatsAppWatcher - INFO - Navigating to WhatsApp Web...
+2026-03-16 05:00:20,511 - WhatsAppWatcher - INFO - Browser initialized successfully (visible mode)
+2026-03-16 05:00:26,753 - WhatsAppWatcher - INFO - Session loaded - already authenticated
+2026-03-16 05:00:26,753 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 05:00:36,788 - WhatsAppWatcher - WARNING - Chat list not found, waiting more...
+2026-03-16 05:00:43,818 - WhatsAppWatcher - INFO - Found 30 chats using selector: div[role="row"]
+2026-03-16 05:00:43,818 - WhatsAppWatcher - INFO - Found 30 chats to check
+2026-03-16 05:00:43,853 - WhatsAppWatcher - INFO - Chat 0: my ufone | Msg: my ufone | Unread: 0 | Keyword: False
+2026-03-16 05:00:43,874 - WhatsAppWatcher - INFO - Chat 1: +92 340 4543598 | Msg: +92 340 4543598 | Unread: 0 | Keyword: False
+2026-03-16 05:00:43,896 - WhatsAppWatcher - INFO - Chat 2: ggggv | Msg: ggggv | Unread: 0 | Keyword: False
+2026-03-16 05:00:44,523 - WhatsAppWatcher - INFO - Found 0 new messages matching criteria
+2026-03-16 05:00:44,527 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:02:44,604 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 05:02:54,644 - WhatsAppWatcher - WARNING - Chat list not found, waiting more...
+2026-03-16 05:03:01,693 - WhatsAppWatcher - INFO - Found 30 chats using selector: div[role="row"]
+2026-03-16 05:03:01,694 - WhatsAppWatcher - INFO - Found 30 chats to check
+2026-03-16 05:03:01,733 - WhatsAppWatcher - INFO - Chat 0: my ufone | Msg: my ufone | Unread: 0 | Keyword: False
+2026-03-16 05:03:01,765 - WhatsAppWatcher - INFO - Chat 1: +92 340 4543598 | Msg: +92 340 4543598 | Unread: 0 | Keyword: False
+2026-03-16 05:03:01,799 - WhatsAppWatcher - INFO - Chat 2: ggggv | Msg: ggggv | Unread: 0 | Keyword: False
+2026-03-16 05:03:02,641 - WhatsAppWatcher - INFO - Found 0 new messages matching criteria
+2026-03-16 05:03:02,645 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:04:45,766 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 05:04:46,735 - WhatsAppWatcher - INFO - Shutdown requested - exiting main loop
+2026-03-16 05:04:46,742 - WhatsAppWatcher - ERROR - Error during cleanup: Browser.close: Connection closed while reading from the driver
+2026-03-16 05:04:46,742 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 05:04:49,218 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 05:04:49,219 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 05:04:49,219 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 05:04:49,219 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 05:04:49,219 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 05:04:50,865 - WhatsAppWatcher - INFO - Navigating to WhatsApp Web...
+2026-03-16 05:05:24,647 - WhatsAppWatcher - INFO - Browser initialized successfully (visible mode)
+2026-03-16 05:05:30,404 - WhatsAppWatcher - INFO - Session loaded - already authenticated
+2026-03-16 05:05:30,404 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 05:05:48,901 - WhatsAppWatcher - WARNING - Chat list not found after 15s: Page.wait_for_selector: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"row\"]") to be visible
+    - waiting for" https://web.whatsapp.com/" navigation to finish...
+    - navigated to "https://web.whatsapp.com/"
+
+2026-03-16 05:05:55,944 - WhatsAppWatcher - INFO - No chats found - may not be logged in
+2026-03-16 05:05:55,949 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:06:59,488 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 05:06:59,992 - WhatsAppWatcher - INFO - Shutdown requested - exiting main loop
+2026-03-16 05:07:01,016 - WhatsAppWatcher - ERROR - Error during cleanup: Browser.close: Connection closed while reading from the driver
+2026-03-16 05:07:01,017 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 05:07:04,074 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 05:07:04,074 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 05:07:04,074 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 05:07:04,074 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 05:07:04,074 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 05:07:05,693 - WhatsAppWatcher - INFO - Navigating to WhatsApp Web...
+2026-03-16 05:07:38,942 - WhatsAppWatcher - INFO - Browser initialized successfully (visible mode)
+2026-03-16 05:07:44,940 - WhatsAppWatcher - INFO - Session loaded - already authenticated
+2026-03-16 05:07:44,940 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 05:07:53,608 - WhatsAppWatcher - INFO - Chat list loaded successfully
+2026-03-16 05:07:55,638 - WhatsAppWatcher - INFO - Found 30 chats using selector: div[role="row"]
+2026-03-16 05:07:55,638 - WhatsAppWatcher - INFO - Found 30 chats to check
+2026-03-16 05:07:55,685 - WhatsAppWatcher - INFO - Chat 0: my ufone | Msg: my ufone | Unread: False | Keyword: False
+2026-03-16 05:07:55,719 - WhatsAppWatcher - INFO - Chat 1: +92 340 4543598 | Msg: +92 340 4543598 | Unread: False | Keyword: False
+2026-03-16 05:07:55,748 - WhatsAppWatcher - INFO - Chat 2: ggggv | Msg: ggggv | Unread: False | Keyword: False
+2026-03-16 05:07:55,790 - WhatsAppWatcher - INFO - Chat 3: +92 304 8795250 | Msg: +92 304 8795250 | Unread: False | Keyword: False
+2026-03-16 05:07:55,824 - WhatsAppWatcher - INFO - Chat 4: +92 347 0472497 | Msg: +92 347 0472497 | Unread: False | Keyword: False
+2026-03-16 05:07:56,291 - WhatsAppWatcher - INFO - Found 0 new messages matching criteria
+2026-03-16 05:07:56,297 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:09:56,404 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 05:10:05,951 - WhatsAppWatcher - INFO - Chat list loaded successfully
+2026-03-16 05:10:08,000 - WhatsAppWatcher - INFO - Found 30 chats using selector: div[role="row"]
+2026-03-16 05:10:08,000 - WhatsAppWatcher - INFO - Found 30 chats to check
+2026-03-16 05:10:08,062 - WhatsAppWatcher - INFO - Chat 0: my ufone | Msg: my ufone | Unread: False | Keyword: False
+2026-03-16 05:10:08,229 - WhatsAppWatcher - INFO - Chat 1: +92 340 4543598 | Msg: +92 340 4543598 | Unread: False | Keyword: False
+2026-03-16 05:10:08,317 - WhatsAppWatcher - INFO - Chat 2: ggggv | Msg: ggggv | Unread: False | Keyword: False
+2026-03-16 05:10:08,366 - WhatsAppWatcher - INFO - Chat 3: +92 304 8795250 | Msg: +92 304 8795250 | Unread: False | Keyword: False
+2026-03-16 05:10:08,415 - WhatsAppWatcher - INFO - Chat 4: +92 347 0472497 | Msg: +92 347 0472497 | Unread: False | Keyword: False
+2026-03-16 05:10:09,692 - WhatsAppWatcher - INFO - Found 0 new messages matching criteria
+2026-03-16 05:10:09,700 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:11:33,513 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 05:11:33,798 - WhatsAppWatcher - INFO - Shutdown requested - exiting main loop
+2026-03-16 05:11:33,804 - WhatsAppWatcher - INFO - Browser closed
+2026-03-16 05:11:34,570 - WhatsAppWatcher - INFO - Playwright stopped
+2026-03-16 05:11:34,570 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 05:11:36,773 - WhatsAppWatcher - INFO - Starting with empty processed messages
+2026-03-16 05:11:36,774 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 05:11:36,774 - WhatsAppWatcher - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-16 05:11:36,774 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 05:11:36,774 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 05:11:38,342 - WhatsAppWatcher - INFO - Navigating to WhatsApp Web...
+2026-03-16 05:12:11,991 - WhatsAppWatcher - INFO - Browser initialized successfully (visible mode)
+2026-03-16 05:12:17,996 - WhatsAppWatcher - INFO - Session file exists but not authenticated - will need QR scan
+2026-03-16 05:12:17,998 - WhatsAppWatcher - INFO - Waiting for QR code scan...
+2026-03-16 05:12:30,130 - WhatsAppWatcher - INFO - QR code scanned successfully!
+2026-03-16 05:12:30,136 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:12:30,137 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 05:12:36,210 - WhatsAppWatcher - INFO - Found 30 total chats
+2026-03-16 05:12:36,904 - WhatsAppWatcher - INFO - Found 0 unread chats
+2026-03-16 05:12:36,907 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:14:37,030 - WhatsAppWatcher - INFO - Polling WhatsApp (attempt 1/3)
+2026-03-16 05:14:43,373 - WhatsAppWatcher - INFO - Found 30 total chats
+2026-03-16 05:14:44,139 - WhatsAppWatcher - INFO - Found 0 unread chats
+2026-03-16 05:14:44,144 - WhatsAppWatcher - INFO - Session saved successfully
+2026-03-16 05:15:04,195 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 05:15:05,166 - WhatsAppWatcher - INFO - Shutdown requested - exiting main loop
+2026-03-16 05:15:05,173 - WhatsAppWatcher - ERROR - Error during cleanup: Browser.close: Connection closed while reading from the driver
+2026-03-16 05:15:05,173 - WhatsAppWatcher - INFO - WhatsAppWatcher stopped
+2026-03-16 05:15:07,453 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-16 05:15:07,453 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-16 05:15:07,453 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-16 05:15:28,874 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 05:15:39,397 - WhatsAppWatcher - INFO - Browser initialized
+2026-03-16 05:15:46,694 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-16 05:15:49,449 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:14:37,705 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 02:14:37,707 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-17 02:14:37,707 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-17 02:14:57,937 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:07,210 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:07,825 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:07,854 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:07,885 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:07,914 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:07,945 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:07,974 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:08,004 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:08,035 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:08,064 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:15:10,800 - WhatsAppWatcher - INFO - Browser initialized
+2026-03-17 02:16:05,368 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:19:06,425 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:25:51,448 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:27:08,024 - __main__ - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 02:27:08,024 - __main__ - INFO - Needs_Action: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action
+2026-03-17 02:27:08,024 - __main__ - INFO - Using credentials from env: GMAIL_CREDENTIALS_PATH=../scripts/credentials.json
+2026-03-17 02:27:08,024 - __main__ - INFO - Credentials file: ../scripts/credentials.json
+2026-03-17 02:27:08,027 - __main__ - INFO - Loaded existing token
+2026-03-17 02:27:08,027 - __main__ - INFO - Refreshing expired token...
+2026-03-17 02:27:09,105 - __main__ - INFO - Token saved to token.json
+2026-03-17 02:27:09,109 - googleapiclient.discovery_cache - INFO - file_cache is only supported with oauth2client<4.0.0
+2026-03-17 02:27:09,115 - __main__ - INFO - Loaded 10 processed IDs
+2026-03-17 02:27:09,115 - __main__ - INFO - GmailWatcher initialized successfully
+2026-03-17 02:27:09,116 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-17 02:27:09,966 - __main__ - INFO - Found 0 new unread important messages
+2026-03-17 02:27:19,203 - __main__ - INFO - Watcher stopped by user (Ctrl+C)
+2026-03-17 02:27:32,568 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 02:27:32,568 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-17 02:27:32,568 - WhatsAppWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 02:27:32,568 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-17 02:27:41,915 - WhatsAppWatcher - INFO - Browser initialized
+2026-03-17 02:28:43,091 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:29:13,239 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:31:31,395 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:33:49,759 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:34:00,051 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:34:00,922 - WhatsAppWatcher - ERROR - Cleanup error: Browser.close: Connection closed while reading from the driver
+2026-03-17 02:34:03,305 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 02:34:03,305 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-17 02:34:03,305 - WhatsAppWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 02:34:03,305 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-17 02:34:12,912 - WhatsAppWatcher - INFO - Browser initialized
+2026-03-17 02:34:52,734 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:35:12,343 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:37:40,619 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:37:40,622 - WhatsAppWatcher - INFO - Created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action\WHATSAPP_my_ufone_20260317_023740.md
+2026-03-17 02:39:58,545 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:40:26,451 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 02:40:27,309 - WhatsAppWatcher - ERROR - Cleanup error: Browser.close: Connection closed while reading from the driver
+2026-03-17 02:40:29,067 - WhatsAppWatcher - INFO - Loaded 1 processed IDs
+2026-03-17 02:40:29,068 - WhatsAppWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 02:40:29,068 - WhatsAppWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\whatsapp_session.json
+2026-03-17 02:40:29,068 - WhatsAppWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 02:40:29,068 - WhatsAppWatcher - INFO - Starting WhatsAppWatcher
+2026-03-17 02:40:38,959 - WhatsAppWatcher - INFO - Browser initialized
+2026-03-17 02:41:12,503 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:41:29,099 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:43:52,855 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:43:52,859 - WhatsAppWatcher - INFO - Created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action\WHATSAPP_my_ufone_20260317_024352.md
+2026-03-17 02:46:17,137 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:48:37,891 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:51:02,888 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:53:22,104 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:55:40,391 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 02:57:59,086 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 03:00:17,368 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 03:02:36,477 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 03:05:06,790 - WhatsAppWatcher - INFO - Session saved
+2026-03-17 03:06:08,664 - WhatsAppWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:06:09,830 - WhatsAppWatcher - ERROR - Cleanup error: Browser.close: Connection closed while reading from the driver
+2026-03-17 03:06:13,394 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:06:13,394 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:06:13,394 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:06:13,395 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:06:20,986 - LinkedInWatcher - INFO - Browser initialized
+2026-03-17 03:09:09,174 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:09:10,088 - LinkedInWatcher - ERROR - Save session failed: BrowserContext.cookies: Connection closed while reading from the driver
+2026-03-17 03:09:10,090 - LinkedInWatcher - ERROR - Cleanup error: Browser.close: Connection closed while reading from the driver
+2026-03-17 03:09:13,253 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:09:13,254 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:09:13,254 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:09:13,254 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:09:20,797 - LinkedInWatcher - INFO - Browser initialized
+2026-03-17 03:11:43,238 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:02,398 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:06,847 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,462 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,491 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,521 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,552 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,582 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,613 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,643 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,672 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,703 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,734 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:13:07,766 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:14:21,879 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:14:21,879 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:14:21,879 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:14:21,879 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:14:23,656 - LinkedInWatcher - WARNING - Init attempt 1 failed: Browser.new_context() got an unexpected keyword argument 'ignore_default_args'
+2026-03-17 03:14:25,658 - LinkedInWatcher - WARNING - Init attempt 2 failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-17 03:14:27,659 - LinkedInWatcher - WARNING - Init attempt 3 failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-17 03:14:27,659 - LinkedInWatcher - ERROR - All browser init attempts failed
+2026-03-17 03:14:36,221 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:14:36,221 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:14:36,221 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:14:36,221 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:14:37,767 - LinkedInWatcher - WARNING - Init attempt 1 failed: Browser.new_context() got an unexpected keyword argument 'ignore_default_args'
+2026-03-17 03:14:39,767 - LinkedInWatcher - WARNING - Init attempt 2 failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-17 03:14:41,768 - LinkedInWatcher - WARNING - Init attempt 3 failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-17 03:14:41,768 - LinkedInWatcher - ERROR - All browser init attempts failed
+2026-03-17 03:21:18,258 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:21:18,258 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:21:18,258 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:21:18,258 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:21:19,981 - LinkedInWatcher - ERROR - Init attempt 1 failed: Browser.new_context() got an unexpected keyword argument 'ignore_default_args'
+2026-03-17 03:21:21,983 - LinkedInWatcher - ERROR - Init attempt 2 failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-17 03:21:23,986 - LinkedInWatcher - ERROR - Init attempt 3 failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-17 03:21:23,987 - LinkedInWatcher - ERROR - All browser init attempts failed
+2026-03-17 03:21:55,375 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:21:55,375 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:21:55,375 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:21:55,375 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:22:04,002 - LinkedInWatcher - INFO - Browser initialized with stealth mode
+2026-03-17 03:22:19,589 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:22:19,589 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:22:19,589 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:22:19,589 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:22:27,255 - LinkedInWatcher - INFO - Browser initialized with stealth mode
+2026-03-17 03:33:08,116 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:33:08,117 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:33:08,117 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:33:08,118 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:33:16,477 - LinkedInWatcher - INFO - Browser initialized with stealth mode
+2026-03-17 03:37:40,134 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:39:17,577 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:39:17,577 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:39:17,577 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:39:17,577 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:39:31,960 - LinkedInWatcher - INFO - Browser initialized with stealth mode
+2026-03-17 03:41:03,909 - LinkedInWatcher - INFO - Session saved successfully
+2026-03-17 03:42:25,215 - LinkedInWatcher - INFO - Session saved successfully
+2026-03-17 03:46:41,010 - LinkedInWatcher - INFO - Session saved successfully
+2026-03-17 03:50:19,073 - LinkedInWatcher - INFO - Session saved successfully
+2026-03-17 03:52:18,145 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-17 03:52:22,068 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-17 03:52:22,068 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-17 03:52:22,068 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-17 03:52:22,069 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-17 03:52:30,127 - LinkedInWatcher - INFO - Browser initialized with stealth mode
+2026-03-17 03:53:38,298 - LinkedInWatcher - INFO - Session saved successfully
+2026-03-17 03:58:16,955 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-18 02:40:18,187 - LinkedInWatcher - INFO - Shutdown signal received (Ctrl+C)
+2026-03-18 02:41:34,047 - LinkedInWatcher - INFO - Vault path: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault
+2026-03-18 02:41:34,047 - LinkedInWatcher - INFO - Session file: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\scripts\linkedin_session.json
+2026-03-18 02:41:34,047 - LinkedInWatcher - INFO - Screenshot dir: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Logs\screenshots
+2026-03-18 02:41:34,047 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-18 02:41:42,130 - LinkedInWatcher - INFO - Browser initialized with stealth mode
+2026-03-18 02:43:34,317 - LinkedInWatcher - INFO - Session saved successfully: 60 cookies
+2026-03-18 02:47:08,589 - LinkedInWatcher - INFO - Session saved successfully: 60 cookies
+2026-03-18 02:47:08,601 - LinkedInWatcher - INFO - Created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action\LINKEDIN_MESSAGE_20260318_024708.md
+2026-03-18 02:47:08,605 - LinkedInWatcher - INFO - Sales post draft created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Pending_Approval\LinkedIn_Post_20260318_024708.md
+2026-03-18 02:50:39,082 - LinkedInWatcher - INFO - Session saved successfully: 60 cookies
+2026-03-18 02:50:39,084 - LinkedInWatcher - INFO - Created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action\LINKEDIN_MESSAGE_20260318_025039.md
+2026-03-18 02:50:39,087 - LinkedInWatcher - INFO - Sales post draft created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Pending_Approval\LinkedIn_Post_20260318_025039.md
+2026-03-18 02:54:08,848 - LinkedInWatcher - INFO - Session saved successfully: 60 cookies
+2026-03-18 02:54:08,854 - LinkedInWatcher - INFO - Created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action\LINKEDIN_MESSAGE_20260318_025408.md
+2026-03-18 02:54:08,859 - LinkedInWatcher - INFO - Sales post draft created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Pending_Approval\LinkedIn_Post_20260318_025408.md
+2026-03-18 02:57:37,689 - LinkedInWatcher - INFO - Session saved successfully: 60 cookies
+2026-03-18 02:57:37,693 - LinkedInWatcher - INFO - Created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Needs_Action\LINKEDIN_MESSAGE_20260318_025737.md
+2026-03-18 02:57:37,700 - LinkedInWatcher - INFO - Sales post draft created: C:\Users\PMLS\Desktop\Hackathon-0\Silver-tier\AI_Employee_Vault\Pending_Approval\LinkedIn_Post_20260318_025737.md

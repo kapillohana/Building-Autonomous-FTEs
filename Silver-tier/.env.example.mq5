@@ -1,0 +1,2 @@
+GMAIL_CREDENTIALS_PATH=AI_Employee_Vault/scripts/credentials.json
+GMAIL_TOKEN_PATH=AI_Employee_Vault/scripts/token.json
