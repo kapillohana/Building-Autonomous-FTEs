@@ -6,3 +6,4 @@
 {"level":"info","message":"SMTP verified","timestamp":"2026-03-17T22:12:01.946Z"}
 {"level":"info","message":"POST /send_email","timestamp":"2026-03-17T22:19:15.549Z"}
 {"level":"info","message":"Email sent","messageId":"<77531a6d-ec48-5a54-9ede-345135ad5cc5@gmail.com>","timestamp":"2026-03-17T22:19:19.463Z","to":"kapillohana79@gmail.com"}
+{"level":"info","message":"GET /health","timestamp":"2026-03-17T22:27:15.487Z"}
