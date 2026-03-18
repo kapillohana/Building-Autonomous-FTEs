@@ -1,0 +1,36 @@
+{
+  "cookies": [
+    {
+      "name": "wa_ul",
+      "value": "414621dd-a480-4d55-bd82-611c26f79790",
+      "domain": ".web.whatsapp.com",
+      "path": "/",
+      "expires": 1781394749.890869,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wa_web_access_token",
+      "value": "WAAVcTIz0klTDN9MeTMsZCQo2g1F0e9MynacSeRXjqYGzn9Y1hHZAaxNYzRF830FlywfbIWoDp7fZCI0PZAvB660g3ZAGzopMeGqy8kCPeMkny4cqKQGQxACYAUxKqzLbhoTBIoKQZDZD",
+      "domain": ".web.whatsapp.com",
+      "path": "/",
+      "expires": 1805233255.796462,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wa_web_lang_pref",
+      "value": "en_US",
+      "domain": ".web.whatsapp.com",
+      "path": "/",
+      "expires": 1776117886,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "timestamp": "2026-03-17T03:05:06.787202",
+  "url": "https://web.whatsapp.com/"
+}
