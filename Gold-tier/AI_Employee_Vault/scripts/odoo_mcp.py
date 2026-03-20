@@ -27,10 +27,11 @@ logging.basicConfig(
 logger = logging.getLogger('OdooMCP')
 
 # Odoo Configuration
-ODOO_URL = 'http://localhost:8069'
-ODOO_DB = 'ai_employee_company'  # Your database name
-ODOO_USERNAME = 'admin@aiemployee.com'  # Your email
-ODOO_PASSWORD = 'Lohana@0020'  # Your password
+# 🔐 SECURITY: Load from environment variables (create .env file)
+ODOO_URL = os.getenv('ODOO_URL', 'http://localhost:8069')
+ODOO_DB = os.getenv('ODOO_DB', 'ai_employee_company')
+ODOO_USERNAME = os.getenv('ODOO_USERNAME', 'admin@aiemployee.com')
+ODOO_PASSWORD = os.getenv('ODOO_PASSWORD', '')  # Required: Set in .env file
 
 
 class OdooMCP:

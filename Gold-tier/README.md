@@ -37,6 +37,25 @@ Gold Tier is the complete autonomous AI employee system. It builds on Silver Tie
 
 ## 🚀 How to Run the Full System
 
+### ⚠️ Security First - Setup .env File
+
+**BEFORE committing to GitHub:**
+
+1. **Copy the template:**
+   ```bash
+   copy .env.example .env
+   ```
+
+2. **Edit .env with your credentials:**
+   ```bash
+   ODOO_PASSWORD=your_actual_password
+   FACEBOOK_PASSWORD=your_actual_password
+   INSTAGRAM_PASSWORD=your_actual_password
+   TWITTER_PASSWORD=your_actual_password
+   ```
+
+3. **NEVER commit .env to GitHub!** (Already in .gitignore)
+
 ### Prerequisites
 ```bash
 # Software required

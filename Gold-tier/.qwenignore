@@ -1,0 +1,57 @@
+# Qwen Ignore File
+# Same as .gitignore but for Qwen Code
+
+# 🔐 SECURITY: Credentials & Environment
+.env
+.env.local
+.env.*.local
+*.env
+credentials.json
+token.json
+service_account.json
+*.pem
+*.key
+secret*.json
+
+# 👤 Session Files
+*_session.json
+linkedin_session.json
+whatsapp_session.json
+facebook_session.json
+instagram_session.json
+twitter_session.json
+*.session
+*.cookies
+
+# 📝 Processed/Cache Files
+processed_*.json
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🗂️ Logs & Temporary Files
+*.log
+logs/*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# 📦 IDE & Editor
+.idea/
+.vscode/
+*.iml
+
+# 🐍 Python Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# 📊 Odoo Docker Data
+odoo/data/db/
+odoo/config/
+odoo/addons/
