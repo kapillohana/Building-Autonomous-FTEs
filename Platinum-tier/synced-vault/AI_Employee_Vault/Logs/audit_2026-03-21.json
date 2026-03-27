@@ -1,0 +1,51 @@
+[
+  {
+    "id": "audit_0001",
+    "timestamp": "2026-03-21T03:30:30.530795",
+    "skill": "odoo-accounting",
+    "action": "generate_ceo_briefing",
+    "status": "success",
+    "result": "CEO Briefing generated",
+    "approval_status": "auto_approved",
+    "metadata": {
+      "period": "weekly"
+    }
+  },
+  {
+    "id": "audit_0002",
+    "timestamp": "2026-03-21T03:30:30.530795",
+    "skill": "social-media-manager",
+    "action": "create_facebook_post",
+    "status": "pending_approval",
+    "result": "SOCIAL_FACEBOOK_TEST_*.md created",
+    "approval_status": "requires_approval",
+    "metadata": {
+      "platform": "facebook"
+    }
+  },
+  {
+    "id": "audit_0003",
+    "timestamp": "2026-03-21T03:30:30.530795",
+    "skill": "social-media-manager",
+    "action": "create_instagram_post",
+    "status": "pending_approval",
+    "result": "SOCIAL_INSTAGRAM_TEST_*.md created",
+    "approval_status": "requires_approval",
+    "metadata": {
+      "platform": "instagram"
+    }
+  },
+  {
+    "id": "audit_0004",
+    "timestamp": "2026-03-21T03:30:30.530795",
+    "skill": "social-media-manager",
+    "action": "create_twitter_post",
+    "status": "pending_approval",
+    "result": "SOCIAL_TWITTER_TEST_*.md created",
+    "approval_status": "requires_approval",
+    "metadata": {
+      "platform": "twitter",
+      "thread_count": 3
+    }
+  }
+]

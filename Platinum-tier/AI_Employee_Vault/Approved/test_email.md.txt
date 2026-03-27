@@ -1,0 +1,6 @@
+---
+type: email_draft
+to: test@gmail.com
+subject: Test from Silver Tier
+---
+This is a test email from your AI Employee.

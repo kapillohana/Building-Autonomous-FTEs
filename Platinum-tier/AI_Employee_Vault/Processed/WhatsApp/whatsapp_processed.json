@@ -1,0 +1,24 @@
+[
+  {
+    "filename": "WHATSAPP_my_ufone_20260317_023740.md",
+    "from": "my ufone",
+    "received": "2026-03-17T02:37:40.614651",
+    "priority": "MEDIUM",
+    "unread_count": 3,
+    "keywords_detected": false,
+    "message": "2:34 AM",
+    "status": "pending",
+    "processed_at": "2026-03-17T02:45:58.764279"
+  },
+  {
+    "filename": "WHATSAPP_my_ufone_20260317_024352.md",
+    "from": "my ufone",
+    "received": "2026-03-17T02:43:52.841258",
+    "priority": "MEDIUM",
+    "unread_count": 2,
+    "keywords_detected": false,
+    "message": "_No text content (may be image, voice message, or other media)_",
+    "status": "pending",
+    "processed_at": "2026-03-17T02:45:58.768281"
+  }
+]
